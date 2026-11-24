@@ -8,6 +8,6 @@ The theoretical content in this section was planned and its variables controlled
 Owing to the creator's limited expertise, the creator sincerely apologizes for any possible errors and welcomes criticism and corrections from scholars, technicians, and technology enthusiasts.
 
  
-***2026-11-24***
+***11/24/2026***
 
-***Repository Creator —  GUYU198***
+***GUYU198***
