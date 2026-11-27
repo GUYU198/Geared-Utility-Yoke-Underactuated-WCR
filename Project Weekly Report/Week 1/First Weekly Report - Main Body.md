@@ -1,7 +1,7 @@
 # First Weekly Report — Main Body
 
 **Reporting period:** Week 1  
-**Prepared by:** Ma Xiangzhuo (credited as the responsible author in the source slide deck)  
+**Prepared by:** GUYU198  
 **Technical scope:** Part III — mechanical design of the magnetic table assembly, magnetic-circuit simulation, theoretical force analysis, and vehicle-body material selection  
 **Companion material:** `Appendix - Illustrations/` (14 figures cropped from the Week-1 presentation)
 
